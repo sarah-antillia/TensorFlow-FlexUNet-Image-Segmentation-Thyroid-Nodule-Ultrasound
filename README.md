@@ -378,7 +378,13 @@ Haifan Gong, Jiaxin Chen, Guanqi Chen, Haofeng Li, Guanbin Li, Fei Chen<br>
 https://www.sciencedirect.com/science/article/abs/pii/S0010482522010976
 </a>
 <br><br>
-<b>3. TensorFlow-FlexUNet-Image-Segmentation-Model </b><br>
+<b>3. Segmentation of thyroid glands and nodules in ultrasound images using the improved U-Net architecture</b><br>
+Tianlei Zheng, Hang Qin, Yingying Cui, Rong Wang, Weiguo Zhao, Shijin Zhang, Shi Geng & Lei Zhao<br>
+<a href="https://link.springer.com/article/10.1186/s12880-023-01011-8">
+https://link.springer.com/article/10.1186/s12880-023-01011-8
+</a>
+<br><br>
+<b>4. TensorFlow-FlexUNet-Image-Segmentation-Model </b><br>
 Toshiyuki Arai<br>
 <a href="https://github.com/sarah-antillia/TensorFlow-FlexUNet-Image-Segmentation-Model">
 https://github.com/sarah-antillia/TensorFlow-FlexUNet-Image-Segmentation-Model
