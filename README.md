@@ -158,7 +158,7 @@ As shown above, the number of images of train and valid datasets is large enough
 </h3>
  We trained Thyroid-Nodule-Images TensorFlowFlexUNet Model by using the following
 <a href="./projects/TensorFlowFlexUNet/Thyroid-Nodule/train_eval_infer.config"> <b>train_eval_infer.config</b></a> file. <br>
-Please move to ./projects/TensorFlowFlexUNet/Thyroid-Nodule-Images and run the following bat file.<br>
+Please move to <b>./projects/TensorFlowFlexUNet/Thyroid-Nodule</b> folder and run the following bat file.<br>
 <pre>
 >1.train.bat
 </pre>
@@ -269,7 +269,7 @@ In this experiment, the training process was terminated at epoch 32.<br><br>
 <h3>
 4 Evaluation
 </h3>
-Please move to <b>./projects/TensorFlowFlexUNet/Thyroid-Nodule-Images</b> folder,<br>
+Please move to <b>./projects/TensorFlowFlexUNet/Thyroid-Nodule</b> folder,<br>
 and run the following bat file to evaluate the TensorFlowUNet model for Thyroid-Nodule-Images.<br>
 <pre>
 ./2.evaluate.bat
@@ -295,7 +295,7 @@ dice_coef_multiclass,0.9098
 <h3>
 5 Inference
 </h3>
-Please move to <b>./projects/TensorFlowFlexUNet/Thyroid-Nodule-Images</b> folder<br>
+Please move to <b>./projects/TensorFlowFlexUNet/Thyroid-Nodule</b> folder<br>
 ,and run the following bat file to infer segmentation regions for images using the Trained-TensorFlowUNet model for Thyroid-Nodule-Images.<br>
 <pre>
 ./3.infer.bat
